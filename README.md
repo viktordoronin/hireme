@@ -4,6 +4,7 @@ Regarding my uni projects, please note that this isn't nearly everything I've wr
 
 ## Go
 [learning-epbf-go](https://github.com/viktordoronin/learning-ebpf-go) - O'Reily "Learning eBPF" code rewritten for Go. I learned a lot and had lots of fun with that one, self-taught completely from scratch.
+[Fun with gRPC](https://github.com/viktordoronin/fun-with-grpc) - I took a short online course to teach myself gRPC and then I went a bit beyond what the course has covered. Soon I'll come back to it and do more.
 ## Python
 [This is a Python project I did for my Software Development class.](https://github.com/viktordoronin/python-sd) The class was focused on TDD(test-driven development) so naturally the project involved developing tests, it also dealt with things like developing and applying a code standard, using a linter and a build system, refactoring. We were graded on following the TDD process correctly so the commit history is a big part of this one.
 ## C
