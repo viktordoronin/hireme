@@ -5,6 +5,8 @@ Regarding my uni projects, please note that this isn't nearly everything I've wr
 ## DevOps
 [Gitlab CI/CD](https://gitlab.com/viktordoronin/devops) - this is an assignment for my university DevOps subject. The project code was provided to us, we were required to set up the pipeline to run some specific tools to produce some specific output(messages and stuff). The parts that are mine is the pipeline config and the bash scripts. I had to do some Bash magic in order to get the exact output the professor wanted, otherwise it's a simple project but it's not like Gitlab CI/CD is terribly complicated anyway.
 
+[CKA practice](https://github.com/viktordoronin/cka-practice) - I wanted to get some hands-on Kubernetes experience so I found some practice exercises. They're brief, but cover just about everything you need to know to use Kubernetes. I don't actually intend to take CKA but it was nice to test my knowledge of K8s regardless. It took me around 5 hours in total to complete this.
+
 ## Go
 [learning-epbf-go](https://github.com/viktordoronin/learning-ebpf-go) - O'Reily "Learning eBPF" code rewritten for Go. I learned a lot and had lots of fun with that one, self-taught completely from scratch.
 
